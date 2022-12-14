@@ -18,7 +18,7 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: https://monitor.remotecheckin.co.uk
+  cname: monitor.remotecheckin.co.uk
   # baseUrl: /monitor
   logoUrl: https://www.remotecheckin.co.uk/assets/images/LogoH_P.svg
   name: monitor

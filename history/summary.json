@@ -22,17 +22,17 @@
     "url": "https://app.remotecheckin.co.uk/Check_in?SiteID=Test01",
     "icon": "https://icons.duckduckgo.com/ip3/app.remotecheckin.co.uk.ico",
     "slug": "test01",
-    "status": "up",
-    "uptime": "2.83%",
-    "uptimeDay": "2.83%",
-    "uptimeWeek": "2.83%",
-    "uptimeMonth": "2.83%",
-    "uptimeYear": "2.83%",
-    "time": 665,
-    "timeDay": 665,
-    "timeWeek": 665,
-    "timeMonth": 665,
-    "timeYear": 665,
+    "status": "down",
+    "uptime": "14.68%",
+    "uptimeDay": "14.68%",
+    "uptimeWeek": "14.68%",
+    "uptimeMonth": "14.68%",
+    "uptimeYear": "14.68%",
+    "time": 678,
+    "timeDay": 678,
+    "timeWeek": 678,
+    "timeMonth": 678,
+    "timeYear": 678,
     "dailyMinutesDown": {
       "2022-12-14": 397
     }
@@ -43,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.remotecheckin.co.uk.ico",
     "slug": "test02",
     "status": "down",
-    "uptime": "8.81%",
-    "uptimeDay": "8.81%",
-    "uptimeWeek": "8.81%",
-    "uptimeMonth": "8.81%",
-    "uptimeYear": "8.81%",
+    "uptime": "7.72%",
+    "uptimeDay": "7.72%",
+    "uptimeWeek": "7.72%",
+    "uptimeMonth": "7.72%",
+    "uptimeYear": "7.72%",
     "time": 236,
     "timeDay": 236,
     "timeWeek": 236,
     "timeMonth": 236,
     "timeYear": 236,
     "dailyMinutesDown": {
-      "2022-12-14": 367
+      "2022-12-14": 424
     }
   },
   {
@@ -62,19 +62,19 @@
     "url": "https://app.remotecheckin.co.uk/Check_in?SiteID=FBTest",
     "icon": "https://icons.duckduckgo.com/ip3/app.remotecheckin.co.uk.ico",
     "slug": "fb-test",
-    "status": "down",
-    "uptime": "14.09%",
-    "uptimeDay": "14.09%",
-    "uptimeWeek": "14.09%",
-    "uptimeMonth": "14.09%",
-    "uptimeYear": "14.09%",
-    "time": 161,
-    "timeDay": 161,
-    "timeWeek": 161,
-    "timeMonth": 161,
-    "timeYear": 161,
+    "status": "up",
+    "uptime": "12.36%",
+    "uptimeDay": "12.36%",
+    "uptimeWeek": "12.36%",
+    "uptimeMonth": "12.36%",
+    "uptimeYear": "12.36%",
+    "time": 164,
+    "timeDay": 164,
+    "timeWeek": 164,
+    "timeMonth": 164,
+    "timeYear": 164,
     "dailyMinutesDown": {
-      "2022-12-14": 345
+      "2022-12-14": 402
     }
   }
 ]

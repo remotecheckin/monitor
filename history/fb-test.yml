@@ -1,7 +1,7 @@
 url: https://app.remotecheckin.co.uk/Check_in?SiteID=FBTest
-status: up
+status: down
 code: 200
-responseTime: 196
-lastUpdated: 2022-12-14T13:41:12.339Z
+responseTime: 117
+lastUpdated: 2022-12-14T13:55:44.696Z
 startTime: Wed Dec 14 2022 13:01:14 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

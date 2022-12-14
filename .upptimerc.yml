@@ -21,7 +21,7 @@ status-website:
   cname: https://monitor.remotecheckin.co.uk
   # baseUrl: /monitor
   logoUrl: https://www.remotecheckin.co.uk/assets/images/LogoH_P.svg
-  name: 
+  name: monitor
   introTitle: "Welcome to the Remote Check In Status Page."
   introMessage: This page should list all sites to check their active status.
   navbar:

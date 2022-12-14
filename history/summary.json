@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 173,
-    "timeDay": 173,
-    "timeWeek": 173,
-    "timeMonth": 173,
-    "timeYear": 173,
+    "time": 171,
+    "timeDay": 171,
+    "timeWeek": 171,
+    "timeMonth": 171,
+    "timeYear": 171,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.remotecheckin.co.uk.ico",
     "slug": "test01",
     "status": "down",
-    "uptime": "11.45%",
-    "uptimeDay": "11.45%",
-    "uptimeWeek": "11.45%",
-    "uptimeMonth": "11.45%",
-    "uptimeYear": "11.45%",
-    "time": 655,
-    "timeDay": 655,
-    "timeWeek": 655,
-    "timeMonth": 655,
-    "timeYear": 655,
+    "uptime": "11.28%",
+    "uptimeDay": "11.28%",
+    "uptimeWeek": "11.28%",
+    "uptimeMonth": "11.28%",
+    "uptimeYear": "11.28%",
+    "time": 642,
+    "timeDay": 642,
+    "timeWeek": 642,
+    "timeMonth": 642,
+    "timeYear": 642,
     "dailyMinutesDown": {
-      "2022-12-14": 528
+      "2022-12-14": 537
     }
   },
   {
@@ -43,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.remotecheckin.co.uk.ico",
     "slug": "test02",
     "status": "down",
-    "uptime": "6.00%",
-    "uptimeDay": "6.00%",
-    "uptimeWeek": "6.00%",
-    "uptimeMonth": "6.00%",
-    "uptimeYear": "6.00%",
-    "time": 221,
-    "timeDay": 221,
-    "timeWeek": 221,
-    "timeMonth": 221,
-    "timeYear": 221,
+    "uptime": "5.91%",
+    "uptimeDay": "5.91%",
+    "uptimeWeek": "5.91%",
+    "uptimeMonth": "5.91%",
+    "uptimeYear": "5.91%",
+    "time": 237,
+    "timeDay": 237,
+    "timeWeek": 237,
+    "timeMonth": 237,
+    "timeYear": 237,
     "dailyMinutesDown": {
-      "2022-12-14": 555
+      "2022-12-14": 564
     }
   },
   {
@@ -63,18 +63,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.remotecheckin.co.uk.ico",
     "slug": "fb-test",
     "status": "down",
-    "uptime": "12.03%",
-    "uptimeDay": "12.03%",
-    "uptimeWeek": "12.03%",
-    "uptimeMonth": "12.03%",
-    "uptimeYear": "12.03%",
-    "time": 156,
-    "timeDay": 156,
-    "timeWeek": 156,
-    "timeMonth": 156,
-    "timeYear": 156,
+    "uptime": "11.85%",
+    "uptimeDay": "11.85%",
+    "uptimeWeek": "11.85%",
+    "uptimeMonth": "11.85%",
+    "uptimeYear": "11.85%",
+    "time": 154,
+    "timeDay": 154,
+    "timeWeek": 154,
+    "timeMonth": 154,
+    "timeYear": 154,
     "dailyMinutesDown": {
-      "2022-12-14": 519
+      "2022-12-14": 528
     }
   }
 ]

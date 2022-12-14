@@ -6,6 +6,12 @@ sites:
   - name: Website
     url: https://www.remotecheckin.co.uk
   - name: Test01
+    url: https://app.remotecheckin.co.uk/Check_in?SiteID=Test01
+    __dangerous__body_down: "OFFLINE"
+  - name: Test02
+    url: https://app.remotecheckin.co.uk/Check_in?SiteID=Test02
+    __dangerous__body_down: "OFFLINE"
+  - name: FBTest
     url: https://app.remotecheckin.co.uk/Check_in?SiteID=FBTest
     __dangerous__body_down: "OFFLINE"
 

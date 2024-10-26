@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 279,
-    "timeDay": 400,
-    "timeWeek": 307,
-    "timeMonth": 277,
+    "timeDay": 291,
+    "timeWeek": 310,
+    "timeMonth": 278,
     "timeYear": 273,
     "dailyMinutesDown": {}
   },
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.remotecheckin.co.uk.ico",
     "slug": "test01",
     "status": "up",
-    "uptime": "0.30%",
+    "uptime": "0.45%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "26.76%",
-    "uptimeMonth": "7.54%",
-    "uptimeYear": "0.24%",
+    "uptimeWeek": "41.02%",
+    "uptimeMonth": "10.82%",
+    "uptimeYear": "0.51%",
     "time": 701,
-    "timeDay": 567,
-    "timeWeek": 2230,
-    "timeMonth": 1344,
-    "timeYear": 688,
+    "timeDay": 502,
+    "timeWeek": 2201,
+    "timeMonth": 1342,
+    "timeYear": 687,
     "dailyMinutesDown": {
       "2024-10-23": 258,
       "2024-10-22": 1440,
@@ -395,8 +395,7 @@
       "2023-10-31": 1440,
       "2023-10-30": 1440,
       "2023-10-29": 1440,
-      "2023-10-28": 1440,
-      "2023-10-27": 1440
+      "2023-10-28": 1440
     }
   },
   {
@@ -405,14 +404,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.remotecheckin.co.uk.ico",
     "slug": "test02",
     "status": "up",
-    "uptime": "0.28%",
+    "uptime": "0.42%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "26.76%",
-    "uptimeMonth": "7.54%",
-    "uptimeYear": "0.24%",
+    "uptimeWeek": "41.02%",
+    "uptimeMonth": "10.82%",
+    "uptimeYear": "0.51%",
     "time": 174,
-    "timeDay": 116,
-    "timeWeek": 139,
+    "timeDay": 110,
+    "timeWeek": 138,
     "timeMonth": 139,
     "timeYear": 165,
     "dailyMinutesDown": {
@@ -777,8 +776,7 @@
       "2023-10-31": 1440,
       "2023-10-30": 1440,
       "2023-10-29": 1440,
-      "2023-10-28": 1440,
-      "2023-10-27": 1440
+      "2023-10-28": 1440
     }
   },
   {
@@ -787,14 +785,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.remotecheckin.co.uk.ico",
     "slug": "fb-test",
     "status": "up",
-    "uptime": "0.30%",
+    "uptime": "0.44%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "26.76%",
-    "uptimeMonth": "7.54%",
-    "uptimeYear": "0.24%",
+    "uptimeWeek": "41.02%",
+    "uptimeMonth": "10.82%",
+    "uptimeYear": "0.51%",
     "time": 134,
-    "timeDay": 116,
-    "timeWeek": 129,
+    "timeDay": 124,
+    "timeWeek": 132,
     "timeMonth": 127,
     "timeYear": 129,
     "dailyMinutesDown": {
@@ -1159,8 +1157,7 @@
       "2023-10-31": 1440,
       "2023-10-30": 1440,
       "2023-10-29": 1440,
-      "2023-10-28": 1440,
-      "2023-10-27": 1440
+      "2023-10-28": 1440
     }
   }
 ]

@@ -1,7 +1,7 @@
 url: https://app.remotecheckin.co.uk/Check_in?SiteID=Test02
 status: down
-code: 525
-responseTime: 303
-lastUpdated: 2024-10-30T23:23:05.442Z
+code: 404
+responseTime: 328
+lastUpdated: 2024-10-31T23:24:08.225Z
 startTime: 2022-12-14T13:01:12.000Z
 generator: Upptime <https://github.com/upptime/upptime>

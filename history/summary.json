@@ -4,18 +4,20 @@
     "url": "https://www.remotecheckin.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.remotecheckin.co.uk.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 273,
-    "timeDay": 215,
-    "timeWeek": 315,
-    "timeMonth": 326,
-    "timeYear": 279,
-    "dailyMinutesDown": {}
+    "time": 272,
+    "timeDay": 185,
+    "timeWeek": 295,
+    "timeMonth": 320,
+    "timeYear": 278,
+    "dailyMinutesDown": {
+      "2024-11-19": 0
+    }
   },
   {
     "name": "Test01",
@@ -34,7 +36,7 @@
     "timeMonth": 1011,
     "timeYear": 681,
     "dailyMinutesDown": {
-      "2024-11-19": 79,
+      "2024-11-19": 872,
       "2024-11-18": 1440,
       "2024-11-17": 1440,
       "2024-11-16": 1440,
@@ -415,7 +417,7 @@
     "timeMonth": 301,
     "timeYear": 173,
     "dailyMinutesDown": {
-      "2024-11-19": 79,
+      "2024-11-19": 872,
       "2024-11-18": 1440,
       "2024-11-17": 1440,
       "2024-11-16": 1440,
@@ -796,7 +798,7 @@
     "timeMonth": 294,
     "timeYear": 142,
     "dailyMinutesDown": {
-      "2024-11-19": 79,
+      "2024-11-19": 872,
       "2024-11-18": 1440,
       "2024-11-17": 1440,
       "2024-11-16": 1440,

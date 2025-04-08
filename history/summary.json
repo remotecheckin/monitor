@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.remotecheckin.co.uk.ico",
     "slug": "website",
     "status": "down",
-    "uptime": "83.60%",
+    "uptime": "83.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "62.07%",
+    "uptimeYear": "61.79%",
     "time": 283,
-    "timeDay": 374,
-    "timeWeek": 299,
+    "timeDay": 230,
+    "timeWeek": 283,
     "timeMonth": 295,
-    "timeYear": 298,
+    "timeYear": 299,
     "dailyMinutesDown": {
-      "2025-04-07": 83,
+      "2025-04-08": 81,
+      "2025-04-07": 1440,
       "2025-04-06": 1440,
       "2025-04-05": 1440,
       "2025-04-04": 1440,
@@ -169,13 +170,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "1.23%",
-    "time": 544,
-    "timeDay": 93,
-    "timeWeek": 176,
+    "time": 543,
+    "timeDay": 129,
+    "timeWeek": 152,
     "timeMonth": 177,
-    "timeYear": 523,
+    "timeYear": 522,
     "dailyMinutesDown": {
-      "2025-04-07": 83,
+      "2025-04-08": 81,
+      "2025-04-07": 1440,
       "2025-04-06": 1440,
       "2025-04-05": 1440,
       "2025-04-04": 1440,
@@ -535,8 +537,7 @@
       "2024-04-12": 1440,
       "2024-04-11": 1440,
       "2024-04-10": 1440,
-      "2024-04-09": 1440,
-      "2024-04-08": 1440
+      "2024-04-09": 1440
     }
   },
   {
@@ -550,13 +551,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "1.23%",
-    "time": 130,
-    "timeDay": 14,
-    "timeWeek": 21,
+    "time": 129,
+    "timeDay": 20,
+    "timeWeek": 19,
     "timeMonth": 22,
-    "timeYear": 112,
+    "timeYear": 111,
     "dailyMinutesDown": {
-      "2025-04-07": 83,
+      "2025-04-08": 81,
+      "2025-04-07": 1440,
       "2025-04-06": 1440,
       "2025-04-05": 1440,
       "2025-04-04": 1440,
@@ -916,8 +918,7 @@
       "2024-04-12": 1440,
       "2024-04-11": 1440,
       "2024-04-10": 1440,
-      "2024-04-09": 1440,
-      "2024-04-08": 1440
+      "2024-04-09": 1440
     }
   },
   {
@@ -926,18 +927,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.remotecheckin.co.uk.ico",
     "slug": "fb-test",
     "status": "down",
-    "uptime": "0.55%",
+    "uptime": "0.54%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "1.23%",
     "time": 107,
-    "timeDay": 9,
-    "timeWeek": 17,
+    "timeDay": 27,
+    "timeWeek": 18,
     "timeMonth": 19,
     "timeYear": 100,
     "dailyMinutesDown": {
-      "2025-04-07": 83,
+      "2025-04-08": 81,
+      "2025-04-07": 1440,
       "2025-04-06": 1440,
       "2025-04-05": 1440,
       "2025-04-04": 1440,
@@ -1297,8 +1299,7 @@
       "2024-04-12": 1440,
       "2024-04-11": 1440,
       "2024-04-10": 1440,
-      "2024-04-09": 1440,
-      "2024-04-08": 1440
+      "2024-04-09": 1440
     }
   }
 ]
